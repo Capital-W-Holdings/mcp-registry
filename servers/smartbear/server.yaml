@@ -15,7 +15,7 @@ about:
 source:
   project: https://github.com/SmartBear/smartbear-mcp
   branch: main
-  commit: 46b43e73069b9614ee0bcf0082443758d3bf8aaa
+  commit: 657ed57924e970e2cd156fb954ce3a8ccab90c70
 config:
   description: Configure the connection to SmartBear services
   secrets:
